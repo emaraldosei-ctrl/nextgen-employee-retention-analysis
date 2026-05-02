@@ -34,9 +34,6 @@ This project analyses employee retention trends to identify key factors contribu
 
 ![Employee Analysis](https://github.com/emaraldosei-ctrl/nextgen-employee-retention-analysis/blob/main/Screenshot%202026-03-15%20100403.png)
 
-### 🔹 Risk Analysis
-
-![Risk Analysis](risk-analysis.png)
 
 ## 💡 Recommendations
 
