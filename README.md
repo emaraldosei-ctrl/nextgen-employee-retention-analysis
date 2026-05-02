@@ -28,7 +28,7 @@ This project analyses employee retention trends to identify key factors contribu
 
 ### 🔹 Overview Dashboard
 
-![Dashboard Overview](NextGen Daashboard.png)
+![NextGen Daashboard overview](NextGen Daashboard overview.png)
 
 ### 🔹 Turnover Analysis
 
