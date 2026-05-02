@@ -28,7 +28,7 @@ This project analyses employee retention trends to identify key factors contribu
 
 ### 🔹 Overview Dashboard
 
-![NextGen Daashboard overview](https://github.com/emaraldosei-ctrl/nextgen-employee-retention-analysis/blob/main/NextGen%20Daashboard%20overview.png)
+![NextGen Dashboard overview](Dashboard-overview.png)
 
 ### 🔹 Employee Analysis
 
