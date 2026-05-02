@@ -30,9 +30,9 @@ This project analyses employee retention trends to identify key factors contribu
 
 ![NextGen Daashboard overview](https://github.com/emaraldosei-ctrl/nextgen-employee-retention-analysis/blob/main/NextGen%20Daashboard%20overview.png)
 
-### 🔹 Turnover Analysis
+### 🔹 Employee Analysis
 
-![Turnover Analysis](turnover-analysis.png)
+![Employee Analysis](https://github.com/emaraldosei-ctrl/nextgen-employee-retention-analysis/blob/main/Screenshot%202026-03-15%20100403.png)
 
 ### 🔹 Risk Analysis
 
