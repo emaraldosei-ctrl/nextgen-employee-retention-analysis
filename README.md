@@ -45,7 +45,7 @@ This project analyses employee retention trends to identify key factors contribu
 ## 📁 Project Files
 
 [Report-Overview](https://github.com/emaraldosei-ctrl/nextgen-employee-retention-analysis/blob/main/CAPSTONE-SQL%20.pdf)
-* Power BI dashboard
+[Power BI dashboard](https://github.com/emaraldosei-ctrl/nextgen-employee-retention-analysis/blob/main/NextGen%20Dashboard.pbix)
 * Supporting datasets
 
 ## 🔗 Let’s Connect
