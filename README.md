@@ -44,7 +44,7 @@ This project analyses employee retention trends to identify key factors contribu
 
 ## 📁 Project Files
 
-* SQL queries used for analysis
+[REPORT-CAPSTONE-SQL](capstone-sql.pdf)
 * Power BI dashboard
 * Supporting datasets
 
